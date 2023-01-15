@@ -289,7 +289,7 @@ button {
 }
 
 /*end header*/
-/*start survices*/
+/*start services*/
 .services {
   padding: 100px 0;
   text-align: center;
@@ -332,14 +332,14 @@ button {
     grid-template-columns: 15% 85%;
   }
 }
-/*end survices*/
+/*end services*/
 /*start design info*/
 .design-info {
   height: 550px;
   overflow: hidden;
   position: relative;
   padding: 50px 0;
-  background-image: url("/img/design-features.jpg");
+  background-image: url("../img/design-features.jpg");
   background-position: center;
   background-size: cover;
 }
